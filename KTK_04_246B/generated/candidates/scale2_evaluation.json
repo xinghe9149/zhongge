@@ -1,0 +1,33 @@
+{
+  "A0002": {
+    "chamfer_px": 2.514,
+    "f1_tol3": 0.7814
+  },
+  "A0003": {
+    "chamfer_px": 3.427,
+    "f1_tol3": 0.7188
+  },
+  "A0004": {
+    "chamfer_px": 3.124,
+    "f1_tol3": 0.6891
+  },
+  "A0005": {
+    "chamfer_px": 1.76,
+    "f1_tol3": 0.815
+  },
+  "A0007": {
+    "chamfer_px": 10.792,
+    "f1_tol3": 0.3894
+  },
+  "A0008": {
+    "chamfer_px": 8.423,
+    "f1_tol3": 0.459
+  },
+  "mean": {
+    "chamfer_px": 5.0067,
+    "f1_tol3": 0.6421
+  },
+  "sequence": {
+    "mean_centroid_acceleration_px": 16.271
+  }
+}
